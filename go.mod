@@ -1,4 +1,4 @@
-module github.com/yadisnel/go-ms-cli/v1
+module github.com/yadisnel/go-ms-cli/v2
 
 go 1.11
 
